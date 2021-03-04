@@ -1,14 +1,17 @@
 # Snake-game
 This is snake game written in Python using the PyGame library.
 
-#Running the application
+>**Running-the-application <br />**
 Download the source code from the repository and run the Python script (.py) file.
 
-python3 Snake\ Game.py
+```
+python Snake-game.py
+```
 
 
-#Prerequisites
+>Prerequisites <br/>
 Python
-Pygame, an open source Python library for making multimedia applications
-#Authors
+Pygame, an open source Python library  <br / >
+
+>Author  <br />
 Nitesh kumar yadav
