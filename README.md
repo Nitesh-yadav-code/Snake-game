@@ -2,7 +2,7 @@
 This is snake game written in Python using the PyGame library.
 
 >**Running-the-application <br />**
-Download the source code from the repository and run the Python script (.py) file.
+Download the source code from the repository and run the Python script (game.py) file.
 
 ```
 python Snake-game.py
