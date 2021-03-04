@@ -10,7 +10,7 @@ python Snake-game.py
 
 
 >Prerequisites <br/>
-Python
+Python <br />
 Pygame, an open source Python library  <br / >
 
 >Author  <br />
